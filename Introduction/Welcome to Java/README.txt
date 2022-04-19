@@ -16,11 +16,6 @@ You must print two lines of output:
 >Print Hello, Java. on the second line.
 
 Sample Output
-```
+
 Hello, World.
 Hello, Java.
-<<<<<<< HEAD
-```
-=======
-```
->>>>>>> 6c60ebb7c7fcd4b9f050cd953e5bb97485fb79de
