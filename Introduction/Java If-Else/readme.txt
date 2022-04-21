@@ -35,6 +35,7 @@ Sample Output 1
 Not Weird
 
 
+
 Explanation
 
 Sample Case 0: n = 3
